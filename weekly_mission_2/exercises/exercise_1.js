@@ -70,7 +70,7 @@ const user = {
   user: "Alfredo",
   username: "AlfredoBonell",
   bio: "Lomitos son lo máximo",
-  age: 23,
+  age: 26,
   getBio: function () {
     return this.bio;
   },
@@ -119,7 +119,7 @@ const userFb = {
   user: "Alfredo",
   username: "AlfredoBonell",
   bio: "Lomitos son lo máximo",
-  age: 23,
+  age: 26,
   friends: 500,
   groups: 5,
   getBio: function () {
