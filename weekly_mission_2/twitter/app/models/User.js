@@ -1,0 +1,40 @@
+class User {
+  constructor(id, username, name, bio, dateCreated, lastUpdated) {
+    this.id = id;
+    this.username = username;
+    this.name = name;
+    this.bio = bio;
+    // this.dateCreated = dateCreated;
+    // this.lastUpdated = lastUpdated;
+    this.dateCreated = new Date();
+    this.lastUpdated = new Date();
+  }
+
+  get getUsername(){
+    return this.username;
+  }
+
+  get getBio(){
+    return this.bio;
+  }
+
+  get getDateCreated(){
+    return this.dateCreated;
+  }
+
+  get getLastUpdated(){
+    return this.lastUpdated;
+  }
+
+  set setUsername(newUserName){
+    this.username = newUserName;
+  }
+
+  set setBio(newBio){
+    this.bio = newBio;
+  }
+
+}
+
+// Esta línea nos permite exportar nuestra clase
+module.exports = User;
