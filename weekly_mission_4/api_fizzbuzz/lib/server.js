@@ -35,4 +35,3 @@ app.get("/v1/fizzbuzz/:score", (request, response) => {
 app.listen(port, () => {
     console.log(`FizzBuzz API in localhost:${port}`);
 });
-
