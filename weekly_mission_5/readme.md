@@ -7,4 +7,4 @@ Proyectos desarrollados en la semana 5:
 |`Bot Telegram`|1|[Link al repo 1](https://github.com/AlfredoBonell/telegram-bot)|
 |`SQL`|2|[Link al repo 2](https://github.com/AlfredoBonell)|
 |`Prisma DB`|3|[Link al repo 3](https://github.com/AlfredoBonell/api-express-postgresql)|
-|`Cliente Servidor`|4|[Link al repo 4](https://github.com/AlfredoBonell)|
+|`Cliente Servidor`|4|[Link al repo 4](https://github.com/AlfredoBonell/cliente-servidor-crud-node)|
